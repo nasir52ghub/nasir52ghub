@@ -14,9 +14,9 @@ Skills:  JAVA/ JS / HTML / CSS/PHP
 - 🔭 I’m currently working on http://www.tc-computer.com/ 
 - 🌱 I’m currently learning Java 
 - 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with you 
+- 🤔 I love web development coding work.
 - 💬 Ask me about web Devlopment 
-- 📫 How to reach me: 01737780152 
+- 📫 How to reach me: 01737780152 (WhatsApp)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nasir52ghub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nasirit52fr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.tc-computer.com)  
